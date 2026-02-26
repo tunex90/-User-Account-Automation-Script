@@ -1,6 +1,6 @@
 # -User-Account-Automation-Script
 This is a practice script that creates Linux users from a text file.
-The exercise is meant to test my knowledge of basic bash scripting syntax and how to apply them to real life scenarios.
+The exercise is meant to test my knowledge of basic bash scripting syntax and how to apply them to real life scenarios......
 
 Objective: Write a script that creates Linux users from a text file.
 
