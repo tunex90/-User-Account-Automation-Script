@@ -47,4 +47,4 @@ fi
 fi
 done <users.txt
 
-echo "User creation process co
+echo "User creation process complete"
